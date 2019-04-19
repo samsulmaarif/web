@@ -1,9 +1,12 @@
 # Site settings
 title: Nacita Training Center
 email: info@nacita.id
-description: > # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+description: >
+  Nacita adalah komunitas belajar yang ingin melakukan pengembangan, Terutama pengembangan diri sendiri sehingga dapat menjadi IT Professional.
+keyword: "SysAdmin Trainig Malang, Linux Training Malang, DevOps Training Malang"
+author: "Nacita Training Center"
+baseurl: ""
+url: ""
 
 twitter_username: nacita_ID
 github_username: nacita
