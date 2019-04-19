@@ -1,5 +1,6 @@
 # Site settings
 title: Nacita Training Center
+tagline: SysAdmin and DevOps Training
 email: info@nacita.id
 description: >
   Nacita adalah komunitas belajar yang ingin melakukan pengembangan, Terutama pengembangan diri sendiri sehingga dapat menjadi IT Professional.
@@ -13,3 +14,43 @@ github_username: nacita
 
 # Build settings
 markdown: kramdown
+
+trainings:
+  - name: Linux Fundamental
+    category: sysadmin
+    image: 1.jpg
+    url:
+  - name: Linux Ubuntu Fundamental
+    category: sysadmin
+    image: 2.jpg
+    url:
+  - name: Linux centOS Fundamental
+    category: sysadmin
+    image: 3.jpg
+    url:
+  - name: Docker Fundamental
+    category: devops
+    image: 4.jpg
+    url:
+  - name: Proxmox Fundamental
+    category: sysadmin
+    image: 5.jpg
+    url:
+  - name: Zimbra Mail Server Fundamental
+    category: devops
+    image: 6.jpg
+    url:
+
+services:
+  - name: Training
+    description: Nacita menyediakan pelatihan IT bagi individu atau Enterprise.
+    icon: fa-users
+  - name: Layanan
+    description: You can use this theme as is, or you can make changes!
+    icon: fa-paper-plane
+  - name: Mutakhir
+    description: Materi pelatihan kami selalu termutakhir.
+    icon: fa-newspaper-o
+  - name: Dengan Cinta
+    description: You have to make your websites with love these days!
+    icon: fa-heart
