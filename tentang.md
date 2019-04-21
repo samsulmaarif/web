@@ -24,7 +24,7 @@ Nacita adalah komunitas belajar yang ingin melakukan pengembangan, Terutama peng
    NACITA berpengalaman meningkatkan kompetensi dan daya saing industri IT di tingkat international dengan peralatan sesuai standar.
 
 3. **Konsultasi Gratis** <br>
-   NACITA melayani konsultasi & bimbingan gratis bagi Student NACITA yang mengalami kesulitan belajar.
+   NACITA melayani konsultasi & bimbingan gratis bagi Siswa NACITA yang mengalami kesulitan belajar.
 
 4. **Training Mengulang Seumur Hidup** <br>
-   Sulit memahami beberapa materi? Tidak perlu khawatir, Di NACITA memberikan Garansi Training Gratis bagi kamu yang sudah pernah ikut Trainig , dan Anda akan dibimbing sampai bisa.
+   Sulit memahami beberapa materi? Tidak perlu khawatir, Di NACITA memberikan Garansi Training Gratis bagi kamu yang sudah pernah ikut Trainig, dan Anda akan dibimbing sampai bisa.
