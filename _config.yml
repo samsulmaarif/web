@@ -1,6 +1,6 @@
 # Site settings
 title: Nacita Training Center
-tagline: SysAdmin and DevOps Training
+tagline: SysAdmin and DevOps Training in Malang!
 email: info@nacita.id
 description: >
   Nacita adalah komunitas belajar yang ingin melakukan pengembangan, Terutama pengembangan diri sendiri sehingga dapat menjadi IT Professional.
@@ -9,34 +9,37 @@ author: "Nacita Training Center"
 baseurl: ""
 url: ""
 
+tentang_nacita: >
+  Nacita adalah komunitas belajar yang ingin melakukan pengembangan, Terutama pengembangan diri sendiri sehingga dapat menjadi IT Professional. Dengan segala sumber yang ada (knowledge & skill) yang kami miliki, kami tetap riset dan mengembangkan untuk menjadi yang berkualitas. Walaupun kami sadari, “di atas awan ada awan lagi”, kita menyadari bahwa bukan terbaik di dunia tetapi hanya ada yang lebih baik.
 twitter_username: nacita_ID
 github_username: nacita
+instagram_username: nacita.id
 
 # Build settings
 markdown: kramdown
 
 trainings:
-  - name: Linux Fundamental
+  - name: Training Linux Fundamental
     category: sysadmin
     image: 1.jpg
     url:
-  - name: Linux Ubuntu Fundamental
+  - name: Training SysAdmin Ubuntu
     category: sysadmin
     image: 2.jpg
     url:
-  - name: Linux centOS Fundamental
+  - name: Training SysAdmin CentOS
     category: sysadmin
     image: 3.jpg
     url:
-  - name: Docker Fundamental
+  - name: Training Docker Fundamental
     category: devops
     image: 4.jpg
     url:
-  - name: Proxmox Fundamental
+  - name: Training Proxmox Fundamental
     category: sysadmin
     image: 5.jpg
     url:
-  - name: Zimbra Mail Server Fundamental
+  - name: Training Zimbra Mail Server
     category: devops
     image: 6.jpg
     url:
@@ -54,3 +57,5 @@ services:
   - name: Dengan Cinta
     description: You have to make your websites with love these days!
     icon: fa-heart
+
+tawkto_api_uri: https://embed.tawk.to/5cbb6798d6e05b735b4384c5/default
