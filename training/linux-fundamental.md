@@ -23,6 +23,15 @@ Pertemuan 2 x (Pukul 09.00 – 17.00 WIB)
 085747526846 (Samsul Ma'arif)
 
 ### Silabus:
+- Pengenalan Linux
+- Tips Memilih Distro Linux
+- Instalasi Dasar Linux
+- Perintah Dasar Linux
+- Penggunaan Editor Vi, Nano & VIM
+- Linux File System
+- Born Again Shell (Bash/Konsole/Terminal) Scripting
+- Permission (Chmod & Chown)
+- Setup Networking
 
 ### Prosedur Pendaftaran :
 
