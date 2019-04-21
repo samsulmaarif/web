@@ -22,11 +22,11 @@ trainings:
   - name: Training Linux Fundamental
     category: sysadmin
     image: 1.jpg
-    url:
+    url: /training/linux-fundamental/
   - name: Training SysAdmin Ubuntu
     category: sysadmin
     image: 2.jpg
-    url:
+    url: /training/sysadmin-ubuntu/
   - name: Training SysAdmin CentOS
     category: sysadmin
     image: 3.jpg
@@ -39,7 +39,7 @@ trainings:
     category: sysadmin
     image: 5.jpg
     url:
-  - name: Training Zimbra Mail Server
+  - name: Lainnya
     category: devops
     image: 6.jpg
     url:
@@ -49,7 +49,7 @@ services:
     description: Nacita menyediakan pelatihan IT bagi individu atau Enterprise.
     icon: fa-users
   - name: Layanan
-    description: You can use this theme as is, or you can make changes!
+    description: Nacita juga memiliki layanan jasa setup server Linux, dll.
     icon: fa-paper-plane
   - name: Mutakhir
     description: Materi pelatihan kami selalu termutakhir.
