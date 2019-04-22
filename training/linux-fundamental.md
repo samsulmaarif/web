@@ -6,7 +6,7 @@ permalink: /training/linux-fundamental/
 
 ## Training Linux fundamental
 
-Training Linux Fundamental Merupakan program training yang didesign khusus untuk mahasiswa/i yang ingin mengetahui teknologi Linux dari basic sampai admin.
+Training Linux Fundamental Merupakan program training yang didesign khusus untuk Anda yang ingin mengetahui teknologi Linux dari basic sampai admin.
 
 
 ### Fasilitas :
@@ -27,6 +27,7 @@ Pertemuan 2 x (Pukul 09.00 – 17.00 WIB)
 - Tips Memilih Distro Linux
 - Instalasi Dasar Linux
 - Perintah Dasar Linux
+- User & Groups
 - Penggunaan Editor Vi, Nano & VIM
 - Linux File System
 - Born Again Shell (Bash/Konsole/Terminal) Scripting

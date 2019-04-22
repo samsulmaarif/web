@@ -14,7 +14,7 @@ Training yang akan dilakukan selama 2 hari ini akan dijalani setiap peserta Bers
 - Peserta diharapkan setelah training mampu untuk melakukan instalasi dan konfigurasi service pada server dengan system operasi Ubuntu Linux Server.
 - Peserta dapat memahami langkah-langkah troubleshooting pada server dengan system operasi Ubuntu Linux Server.
 - Peserta juga akan bergabung di grup WhatsApp Training Ubuntu. Sehingga peserta dapat bertanya jika ada kesulitan dalam memahami materi ataupun ada masalah dengan troubleshooting yang berkaitan dengan Ubuntu Linux Server.
-- Selama training berlangsung, peserta akan dipinjami LAB VPS selama training berlangsung.
+- Selama training berlangsung, peserta akan dipinjami LAB VPS.
 
 ### Fasilitas :
 - Praktek langsung dengan [VPS](https://id.wikipedia.org/wiki/VPS)
@@ -31,10 +31,17 @@ Pertemuan 2 x (Pukul 09.00 – 17.00 WIB)
 085747526846 (Samsul Ma'arif)
 
 ### Silabus:
+- Web Server Apache2
+- Database Server MySQL/MariaDB
+- Nginx Proxy & Reverse proxy
+- DNS Server Bind9
+- FTP Server Proftpd
+- NTP Servers
+- Mail Server Postfix
 
 ### Prosedur Pendaftaran :
 Silakan pilih caranya :
-1. Pendaftaran via Web : Menu pendaftaran
+1. Pendaftaran via Web : [Menu pendaftaran](/pendaftaran)
 2. Pendaftaran via Email (info@NACITA.id) :<br>
    Tuliskan Nama, No HP, dan Program + Tanggal yang diinginkan ke alamat diatas.
 
