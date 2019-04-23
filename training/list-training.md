@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Training Linux Fundamental
+title: Training Tersedia
 permalink: /training/
 image: training.jpg
 ---
