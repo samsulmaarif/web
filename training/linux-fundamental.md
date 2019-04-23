@@ -1,7 +1,8 @@
 ---
-layout: tentang
+layout: page
 title: Training Linux Fundamental
 permalink: /training/linux-fundamental/
+image: training.jpg
 ---
 
 ## Training Linux fundamental

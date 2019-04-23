@@ -1,7 +1,8 @@
 ---
-layout: tentang
+layout: page
 title: Daftar Online
 permalink: /pendaftaran/
+image: training.jpg
 ---
 
 ## Daftar Online

@@ -1,7 +1,8 @@
 ---
-layout: tentang
+layout: page
 title: Training SysAdmin Ubuntu
 permalink: /training/sysadmin-ubuntu/
+image: training.jpg
 ---
 
 ## Training SysAdmin Ubuntu

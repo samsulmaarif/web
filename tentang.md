@@ -1,7 +1,8 @@
 ---
-layout: tentang
+layout: page
 title: Tentang Kami
 permalink: /tentang-kami/
+image: nacita.jpg
 ---
 
 ## Tentang Kami

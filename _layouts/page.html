@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body id="page-top">
+  {% include nav-page.html %}
+<div class="page-header" style="background-image: url('{{site.baseurl}}/img/{% if page.image %}/page/{{page.image}}{% else %}header.jpg{% endif %}')">
+  <div class="header-content">
+      <div class="header-content-inner">
+          <h1>{{ page.title }}</h1>
+          <hr>
+          <p>{{ site.tagline }}</p>
+      </div>
+  </div>
+</div>
+
+<div id="content">
+  <div class="container">
+    {{ content }}
+  </div>
+</div>
+
+  {% include contact.html %}
+  {% include scripts.html %}
+</body>
+
+</html>
