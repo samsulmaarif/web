@@ -58,5 +58,12 @@ Rp 600 rb/Peserta.
 ### Pelaksanaan
 26-27 Oktober 2019
 
+### Trainer
+- **Samsul Ma'arif** - *DevOps Engineer*
+
+### Tempat
+[**Nacita Training Center**](https://s.id/NacitaMalang)<br>
+Jl. Gajayana II No.675b, Dinoyo, Lowokwaru, Kota Malang
+
 ### Training lainnya
 - Silakan buka halaman [Semua Training](/training/  )
