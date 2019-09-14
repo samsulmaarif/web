@@ -42,7 +42,7 @@ trainings:
   - name: Lainnya
     category: devops
     image: 6.jpg
-    url:
+    url: /training/
 
 services:
   - name: Training

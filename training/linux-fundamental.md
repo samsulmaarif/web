@@ -7,7 +7,7 @@ image: training.jpg
 
 ## Training Linux fundamental
 
-**Training Linux Fundamental** Merupakan program training yang didesign khusus untuk Anda yang ingin mengetahui teknologi Linux dari basic sampai admin.
+**Training Linux Fundamental** Merupakan program training yang didesain khusus untuk Anda yang ingin mengetahui teknologi Linux dari basic sampai admin. 
 
 ![poster training linux fundamental](/img/linux-fundamental-training-1.png)
 
@@ -53,7 +53,8 @@ Tuliskan Nama, No HP, dan Program + Tanggal yang diinginkan ke alamat diatas.
 
 
 ### Biaya
-Rp 600 rb/Peserta.
+Rp 600 rb/Peserta.<br>
+*Diskon 50% untuk angkatan pertama*
 
 ### Pelaksanaan
 26-27 Oktober 2019
@@ -66,4 +67,4 @@ Rp 600 rb/Peserta.
 Jl. Gajayana II No.675b, Dinoyo, Lowokwaru, Kota Malang
 
 ### Training lainnya
-- Silakan buka halaman [Semua Training](/training/  )
+- Silakan buka halaman [Semua Training](/training/)
