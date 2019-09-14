@@ -7,41 +7,51 @@ image: training.jpg
 
 ## Training Linux fundamental
 
-Training Linux Fundamental Merupakan program training yang didesign khusus untuk Anda yang ingin mengetahui teknologi Linux dari basic sampai admin.
+**Training Linux Fundamental** Merupakan program training yang didesign khusus untuk Anda yang ingin mengetahui teknologi Linux dari basic sampai admin.
 
-
-### Fasilitas :
-- Sertifikat training
-- Modul training (Hardcopy & Softcopy)
+### Fasilitas
+- Internet
+- Sertifikat
+- Modul training (Softcopy)
 - Laptop masing-masing bawa sendiri
 - Coffe break, snack, lunch.
-- T-shirt
 
-### Jadwal :
+### Jadwal
 Pertemuan 2 x (Pukul 09.00 – 17.00 WIB)
 
-### Informasi :
+### Informasi
 085747526846 (Samsul Ma'arif)
 
-### Silabus:
+### Peserta
+- Siswa / alumni SMK
+- Umum
+- Mahasiswa
+
+### Silabus
 - Pengenalan Linux
 - Tips Memilih Distro Linux
 - Instalasi Dasar Linux
 - Perintah Dasar Linux
-- User & Groups
-- Penggunaan Editor Vi, Nano & VIM
-- Linux File System
-- Born Again Shell (Bash/Konsole/Terminal) Scripting
-- Permission (Chmod & Chown)
-- Setup Networking
+- Linux boot process
+- Desktop Environment
+- Interaksi dengan CLI
+- Linux Filesystem
+- Basic Shell Scripting
+- VIM Teks Editor
+- Manajemen Paket
+- Remote Access (SSH)
+- TCP/IP Networking
 
-### Prosedur Pendaftaran :
+### Prosedur Pendaftaran
 
 Silakan pilih caranya :
-1. Pendaftaran via Web : Menu pendaftaran
+1. Pendaftaran via Web : [Menu pendaftaran](/pendaftaran)
 2. Pendaftaran via Email (info@NACITA.id) :
 Tuliskan Nama, No HP, dan Program + Tanggal yang diinginkan ke alamat diatas.
 
 
-### Biaya :
-900 rb/Peserta.
+### Biaya
+600 rb/Peserta.
+
+### Pelaksanaan
+26-27 Oktober 2019
