@@ -9,15 +9,17 @@ image: training.jpg
 
 **Training Linux Fundamental** Merupakan program training yang didesign khusus untuk Anda yang ingin mengetahui teknologi Linux dari basic sampai admin.
 
+![poster training linux fundamental](/img/linux-fundamental-training-1.png)
+
 ### Fasilitas
-- Internet
+- Koneksi Internet
 - Sertifikat
 - Modul training (Softcopy)
 - Laptop masing-masing bawa sendiri
-- Coffe break, snack, lunch.
+- Coffe break, snack, makan siang.
 
 ### Jadwal
-Pertemuan 2 x (Pukul 09.00 – 17.00 WIB)
+Pertemuan 2 x (Pukul 08.00 – 17.00 WIB)
 
 ### Informasi
 085747526846 (Samsul Ma'arif)
@@ -51,7 +53,10 @@ Tuliskan Nama, No HP, dan Program + Tanggal yang diinginkan ke alamat diatas.
 
 
 ### Biaya
-600 rb/Peserta.
+Rp 600 rb/Peserta.
 
 ### Pelaksanaan
 26-27 Oktober 2019
+
+### Training lainnya
+- Silakan buka halaman [Semua Training](/training/  )

@@ -59,3 +59,15 @@ services:
     icon: fa-heart
 
 tawkto_api_uri: https://embed.tawk.to/5cbb6798d6e05b735b4384c5/default
+
+exclude:
+  - /vendor/
+  - /docker-compose.yml
+  - /.jekyll-cache/
+  - /.jekyll-metadata
+  - /LICENSE
+  - /README.md
+  - /.git/
+  - /.gitignore
+  - /CNAME
+  - /.saas-cache/
