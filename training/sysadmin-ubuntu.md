@@ -12,7 +12,7 @@ Training yang akan dilakukan selama 2 hari ini akan dijalani setiap peserta Bers
 ### Benefits
 - Peserta diharapkan setelah training mampu untuk melakukan instalasi dan konfigurasi service pada server dengan system operasi Ubuntu Linux Server.
 - Peserta dapat memahami langkah-langkah troubleshooting pada server dengan system operasi Ubuntu Linux Server.
-- Peserta juga akan bergabung di grup WhatsApp Training Ubuntu. Sehingga peserta dapat bertanya jika ada kesulitan dalam memahami materi ataupun ada masalah dengan troubleshooting yang berkaitan dengan Ubuntu Linux Server.
+- Peserta juga akan bergabung di grup WhatsApp Training Nacita. Sehingga peserta dapat bertanya jika ada kesulitan dalam memahami materi ataupun ada masalah dengan troubleshooting yang berkaitan dengan materi training.
 - Selama training berlangsung, peserta akan dipinjami LAB VPS.
 
 ### Fasilitas
@@ -46,8 +46,8 @@ Silakan pilih caranya :
 
 ### Biaya
 Rp 600 rb/Peserta.<br>
-*Diskon 50% untuk angkatan pertama*<br>
-*Untuk pendaftaran sebelum tanggal 15 Oktober 2019*
+*// Diskon 50% untuk angkatan pertama*<br>
+*// Untuk pendaftaran sebelum tanggal 1 November 2019*
 
 ### Pelaksanaan
 09-10 November 2019
