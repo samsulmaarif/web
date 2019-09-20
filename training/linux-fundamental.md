@@ -5,7 +5,7 @@ permalink: /training/linux-fundamental/
 image: training.jpg
 ---
 
-## Training Linux fundamental
+<img src="/img/linux-fundamental-training-1.png" class="traning-poster"/>
 
 **Training Linux Fundamental** Merupakan program training yang didesain khusus untuk Anda yang ingin mengetahui teknologi Linux dari basic sampai admin.
 
@@ -15,8 +15,6 @@ Training yang akan dilakukan selama 2 hari ini akan dijalani setiap peserta Bers
 - Peserta diharapkan setelah training mampu untuk melakukan operasi dasar sistem operasi GNU/Linux.
 - Peserta dapat memahami langkah-langkah troubleshooting pada sistem operasi GNU/Linux.
 - Peserta juga akan bergabung di grup WhatsApp Training Nacita. Sehingga peserta dapat bertanya jika ada kesulitan dalam memahami materi ataupun ada masalah dengan troubleshooting yang berkaitan dengan materi training.
-
-![poster training linux fundamental](/img/linux-fundamental-training-1.png)
 
 ### Fasilitas
 - Koneksi Internet
