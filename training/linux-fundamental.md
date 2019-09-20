@@ -52,7 +52,8 @@ Tuliskan Nama, No HP, dan Program + Tanggal yang diinginkan ke alamat diatas.
 
 ### Biaya
 Rp 600 rb/Peserta.<br>
-*Diskon 50% untuk angkatan pertama*
+*Diskon 50% untuk angkatan pertama*<br>
+*Untuk pendaftaran sebelum tanggal 15 Oktober 2019*
 
 ### Pelaksanaan
 26-27 Oktober 2019
