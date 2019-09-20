@@ -5,11 +5,9 @@ permalink: /training/linux-fundamental/
 image: training.jpg
 ---
 
-## Training Linux fundamental
+<img src="/img/linux-fundamental-training-1.png" class="traning-poster"/>
 
-**Training Linux Fundamental** Merupakan program training yang didesain khusus untuk Anda yang ingin mengetahui teknologi Linux dari basic sampai admin. 
-
-![poster training linux fundamental](/img/linux-fundamental-training-1.png)
+**Training Linux Fundamental** Merupakan program training yang didesain khusus untuk Anda yang ingin mengetahui teknologi Linux dari basic sampai admin.
 
 ### Fasilitas
 - Koneksi Internet
