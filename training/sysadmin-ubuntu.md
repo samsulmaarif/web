@@ -29,13 +29,58 @@ Pertemuan 2 x (Pukul 08.00 – 17.00 WIB)
 085747526846 (Samsul Ma'arif)
 
 ### Silabus
-- Web Server Apache2
-- Database Server MySQL/MariaDB
-- Nginx Proxy & Reverse proxy
-- DNS Server Bind9
-- FTP Server Proftpd
-- NTP Servers
-- Mail Server Postfix
+- ubuntu 18.04 installation:
+  - ubuntu installation
+  - set up tcp/ip
+  - set up hostname
+  - set up repository
+
+- ssh server openssh:
+  - install and configure ssh with openssh
+  - ssh authentication method
+
+- web server apache2:
+  - install and configure web server with apache2
+  - apache2 virtualhost
+  - apache2 php
+  - apache2 https
+  - apache2 letsencrypt
+
+- database server mysql/mariadb:
+  - install and configure database with mysql/mariadb
+  - mysql/mariadb backup & restore
+  - mysql/mariadb phpmyadmin
+  - mysql/mariadb over SSL/TLS
+  - mysql/mariadb master-slave replication
+  - mysql/mariadb galera cluster
+  - install and configure webmin
+
+- proxy & reverse proxy:
+  - high availability proxy with haproxy
+  - reverse proxy with nginx
+
+- private dns server with bind9:
+  - install and configure bind9
+  - bind9 dns caching
+  - bind9 dns forwarding
+
+- ftp server with proftpd:
+  - install and configure proftpd
+  - proftpd security
+  - proftpd over SSL/TLS
+
+- ntp server with ntpd:
+  - install and configure ntpd
+  - configure ntp client
+
+- mail server with postfix and dovecot:
+  - install and configure postfix
+  - install and configure dovecot
+  - add mail accounts
+  - set up email client
+  - email virus-scanning with clamav & amavisd
+  - email filtering with spamassassin
+  - set up SSL/TLS
 
 ### Prosedur Pendaftaran
 Silakan pilih caranya :
