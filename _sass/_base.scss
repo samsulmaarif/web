@@ -80,6 +80,7 @@ aside {
         font-weight: 700;
         text-transform: uppercase;
         background-image: url(/img/logo-nacita.svg);
+        margin-bottom: 5px;
         &:hover,
         &:focus {
             color: darken($theme-primary, 10%);
@@ -91,7 +92,7 @@ aside {
             > a:focus {
                 text-transform: uppercase;
                 font-weight: 700;
-                font-size: 13px;
+                font-size: 16px;
                 color: $theme-dark;
                 &:hover {
                     color: $theme-primary;
@@ -109,9 +110,11 @@ aside {
             }
         }
     }
+
+    // home navbar landed
     @media (min-width: 768px) {
         background-color: transparent;
-        border-color: rgba(white, .3);
+        border-color: transparent;
         .navbar-header .navbar-brand {
             color: rgba(white, .7);
             &:hover,
@@ -121,14 +124,14 @@ aside {
         }
         .nav > li > a,
         .nav > li > a:focus {
-            color: rgba(white, .7);
+            color: white;
             &:hover {
-                color: white;
+                color: $theme-primary;
             }
         }
         &.affix {
             background-color: white;
-            border-color: rgba($theme-dark, .5);
+            border-color: rgba($theme-dark, .1);
             .navbar-header .navbar-brand {
                 color: $theme-primary;
                 font-size: 14px;
