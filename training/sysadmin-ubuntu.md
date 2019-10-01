@@ -84,7 +84,7 @@ Pertemuan 2 x (Pukul 08.00 – 17.00 WIB)
 
 ### Prosedur Pendaftaran
 Silakan pilih caranya :
-1. Pendaftaran via Web : [Menu pendaftaran](/pendaftaran)
+1. Pendaftaran via Web : [Formulir pendaftaran](https://docs.google.com/forms/d/e/1FAIpQLSeTW8VX5_q5D9BQ8TrcPyFhJBPcG2F-yP2l2xh4hagdbo81gA/viewform)
 2. Pendaftaran via Email (info@NACITA.id) :<br>
    Tuliskan Nama, No HP, dan Program + Tanggal yang diinginkan ke alamat diatas.
 
