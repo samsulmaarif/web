@@ -5,6 +5,8 @@ permalink: /training/sysadmin-ubuntu/
 image: training.jpg
 ---
 
+![Poster SysAdmin Ubuntu](/img/linux-advance-ubuntu-training-1.jpg "Poster SysAdmin Ubuntu"){: .traning-poster }
+
 Ubuntu adalah salah satu distro linux yang sangat terkenal di dunia yang banyak digunakan oleh perusahaan-perusahaan nasional dan internasional. Pada training Ubuntu, peserta akan belajar mengenai instalasi, konfigurasi, manajemen serta troubleshooting pada system Ubuntu Linux server.
 
 Training yang akan dilakukan selama 2 hari ini akan dijalani setiap peserta Bersama dengan trainer yang telah professional di bidangnya. Selain itu peserta juga akan mendapatkan sharing pengalaman mengenai penerapan atau implementasi kasus dan kebutuhan di lapangan.
